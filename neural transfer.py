@@ -8,8 +8,8 @@ import copy
 import os
 
 # Set file paths
-content_path = r"C:\Users\Mohammed Haris\OneDrive\Desktop\progidy\Neural style transfer\sketch4.jpg"
-style_path = r"C:\Users\Mohammed Haris\OneDrive\Desktop\progidy\Neural style transfer\style4.jpg"
+content_path = r"C:\Users\Mo\Desktop\progidy\Neural style transfer\sketch4.jpg"
+style_path = r"C:\Users\Desktop\progidy\Neural style transfer\style4.jpg"
 
 # Load and transform images
 def load_image(image_path, transform, max_size=512, shape=None):
