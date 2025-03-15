@@ -43,10 +43,7 @@ After training, the final image will be saved as `output.png`.
 - **Epochs:**  
   Change the number of iterations to refine the output quality.  
 
-## Example  
-| Content Image | Style Image | Generated Output |
-|--------------|------------|-----------------|
-| ![Content](content.jpg) | ![Style](style.jpg) | ![Output](output.png) |
+
 
 ## Future Improvements  
 - Implementing Total Variation Loss for smoother results.  
